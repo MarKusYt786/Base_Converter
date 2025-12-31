@@ -1,0 +1,6 @@
+Decimal To Binary: 527 => 1000001111
+Decimal To Octal: 527 => 1017
+Decimal To Hexa Decimal: 527 => 20F
+Decimal To Decimal: 527 => 527
+Decimal To Hexa Decimal: 527 => 20F
+Decimal To Hexa Decimal: 527 => 20F
